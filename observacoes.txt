@@ -1,0 +1,8 @@
+Pra entrar no banco de dados:
+    Abrir o XAMPP, iniciar Apache e Mysql
+    Abrir o navegador e digitar: localhost/phpmyadmin/
+
+Para digitar comandos do banco de dados, digitar python primeiro no terminal. Ex:
+    python
+    from app import Usuario
+    from app import db
